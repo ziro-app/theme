@@ -1,5 +1,5 @@
 {
-  "name": "theme",
+  "name": "@ziro/theme",
   "version": "1.0.0",
   "description": "Official Theme",
   "main": "index.js",
