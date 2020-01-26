@@ -3,13 +3,13 @@ module.exports = {
 	/* STANDARD CONTAINERS */
 	container: {
 		maxWidth: '500px',
-		height: '100vh',
+		minHeight: '100vh',
 		boxSizing: 'border-box',
 		margin: '0 auto'
 	},
 	containerWithPadding: {
 		maxWidth: '500px',
-		height: '100vh',
+		minHeight: '100vh',
 		boxSizing: 'border-box',
 		margin: '0 auto',
 		padding: '20px 20px 60px'
